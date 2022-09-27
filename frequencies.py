@@ -11,7 +11,3 @@ def frequencies(items):
             frequencies[item] = 1
     
     return frequencies
-
-items = [2,5,6,"2"]
-
-print(frequencies(items))
